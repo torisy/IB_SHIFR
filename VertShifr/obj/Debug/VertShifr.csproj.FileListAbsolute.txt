@@ -1,0 +1,10 @@
+E:\game\зачем я живу\VertShifr\VertShifr\bin\Debug\VertShifr.exe.config
+E:\game\зачем я живу\VertShifr\VertShifr\bin\Debug\VertShifr.exe
+E:\game\зачем я живу\VertShifr\VertShifr\bin\Debug\VertShifr.pdb
+E:\game\зачем я живу\VertShifr\VertShifr\obj\Debug\VertShifr.csprojAssemblyReference.cache
+E:\game\зачем я живу\VertShifr\VertShifr\obj\Debug\VertShifr.Form1.resources
+E:\game\зачем я живу\VertShifr\VertShifr\obj\Debug\VertShifr.Properties.Resources.resources
+E:\game\зачем я живу\VertShifr\VertShifr\obj\Debug\VertShifr.csproj.GenerateResource.cache
+E:\game\зачем я живу\VertShifr\VertShifr\obj\Debug\VertShifr.csproj.CoreCompileInputs.cache
+E:\game\зачем я живу\VertShifr\VertShifr\obj\Debug\VertShifr.exe
+E:\game\зачем я живу\VertShifr\VertShifr\obj\Debug\VertShifr.pdb
